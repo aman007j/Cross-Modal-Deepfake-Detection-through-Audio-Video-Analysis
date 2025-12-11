@@ -5,6 +5,27 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
+## 🎧 Audio Feature Extraction
+
+### **Waveform, MFCC (40 coefficients), and Log-Mel Spectrogram**
+![Audio Features](docs/audio_features.png)
+
+---
+
+## 🎥 Video Frame Extraction & Face Tracking
+
+### **Initial Extracted Frames**
+![Face Frames](docs/face_detection_frames.png)
+
+---
+
+## 📊 Model Evaluation
+
+### **Confusion Matrix**
+![Confusion Matrix](docs/confusion_matrix.png)
+
+---
+
 ## 🎯 Objectives  
 - Develop a **cross-modal detection system** that jointly analyzes audio and video.  
 - Improve detection accuracy by focusing on **deepfake audio** through speech feature extraction.  
