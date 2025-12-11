@@ -61,6 +61,12 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
+### 📽️ Project Introduction Video  
+👉 [Click here to watch/download the video](https://github.com/aman007j/Cross-Modal-Deepfake-Detection-through-Audio-Video-Analysis/releases/tag/Video/CrossModelDeepfakeDetection.mp4
+)
+
+---
+
 ## 📜 License  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
