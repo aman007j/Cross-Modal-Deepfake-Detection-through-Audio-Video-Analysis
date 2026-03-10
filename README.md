@@ -22,7 +22,7 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 ## 📊 Model Evaluation
 
 ### **Confusion Matrix**
-![Confusion Matrix](docs/confusion_matrix.png)
+![Confusion Matrix](docs/New_Confusion_Matrix.png)
 
 ---
 
