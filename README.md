@@ -5,10 +5,10 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
-## 🎧 Audio Feature Extraction
+## 🎧 Audio Feature Extraction for 4 Classes
 
 ### **Waveform, MFCC (40 coefficients), and Log-Mel Spectrogram**
-![Audio Features](docs/audio_features.png)
+![Audio Features](docs/RV-RA Audio Features.png)
 
 ---
 
