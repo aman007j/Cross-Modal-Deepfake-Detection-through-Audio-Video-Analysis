@@ -11,7 +11,10 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 ![Audio Features](docs/RV_RA_Audio_Features.png)
 
 ---
+### **Audio Features for Real Video - Fake Audio (RV-FA)**
+![Audio Features](docs/RV_FA_Audio_Features.png)
 
+---
 
 ## 🎥 Video Frame Extraction & Face Tracking
 
