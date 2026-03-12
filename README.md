@@ -5,6 +5,19 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
+## 🎯 Objectives  
+- Develop a **cross-modal detection system** that jointly analyzes audio and video.  
+- Improve detection accuracy by focusing on **deepfake audio** through speech feature extraction.  
+- Enhance existing methods by identifying subtle discrepancies in both modalities.  
+- Build a **user-friendly interface** to visualize and demonstrate detection results.
+
+---
+
+## 📊 Project Flow
+![Project Flowchart](docs/flowchart.png)
+
+---
+
 ## 🎧 Audio Feature Extraction for 4 Classes
 
 ### **Audio Features for Real Video - Real Audio (RV-RA)**
@@ -38,13 +51,7 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
-## 🎯 Objectives  
-- Develop a **cross-modal detection system** that jointly analyzes audio and video.  
-- Improve detection accuracy by focusing on **deepfake audio** through speech feature extraction.  
-- Enhance existing methods by identifying subtle discrepancies in both modalities.  
-- Build a **user-friendly interface** to visualize and demonstrate detection results.
 
----
 
 ## 🛠️ Tech Stack & Requirements  
 
@@ -68,10 +75,7 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 --- 
 
-## 📊 Project Flow
-![Project Flowchart](docs/flowchart.png)
 
----
 
 ### 📽️ Project Introduction Video  
 👉 [Click here to watch/download the video](https://github.com/aman007j/Cross-Modal-Deepfake-Detection-through-Audio-Video-Analysis/releases/download/Video/CrossModelDeepfakeDetection.mp4)
