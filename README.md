@@ -9,7 +9,6 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 - Develop a **cross-modal detection system** that jointly analyzes audio and video.  
 - Improve detection accuracy by focusing on **deepfake audio** through speech feature extraction.  
 - Enhance existing methods by identifying subtle discrepancies in both modalities.  
-- Build a **user-friendly interface** to visualize and demonstrate detection results.
 
 ---
 
