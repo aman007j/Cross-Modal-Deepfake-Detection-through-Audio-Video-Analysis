@@ -27,7 +27,7 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 ## 🎥 Video Frame Extraction & Face Tracking
 
 ### **Initial Extracted Frames**
-![Face Frames](docs/Screenshot 2026-03-12 164850.png)
+![Face Frames](docs/FaceFrame.png)
 
 ---
 
