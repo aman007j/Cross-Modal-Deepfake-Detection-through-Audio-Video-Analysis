@@ -53,7 +53,12 @@ A cross-modal deepfake detection system that analyzes both speech and lip moveme
 
 ---
 
+## Cross Dataset Generalization  
+- The trained AVFusionNet model was evaluated on unseen external datasets to assess generalization capability.
+- DeepFakeTIMIT and Celeb-DF (v2) datasets were used without additional retraining or fine-tuning.
+- Results indicate that the model achieves high accuracy on the source dataset (FakeAVCeleb) and DeepFakeTIMIT, while a noticeable drop is observed on Celeb-DF v2 due to domain differences and increased data complexity.
 
+---
 
 ## 🛠️ Tech Stack & Requirements  
 
